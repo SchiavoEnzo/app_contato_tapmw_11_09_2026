@@ -1,7 +1,7 @@
 {
   "name": "app_contato_tapmw_11_09_2026",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "expo-router/entry",
   "dependencies": {
     "axios": "^1.20.0",
     "expo": "^57.0.22",
